@@ -1,4 +1,4 @@
-(Supplementary Material) Improving Large Language Models with the Transtheoretical Model and Motivational Interviewing to Promote a Healthy and Comprehensive Diet; The persona prompts were adapted from Steenstra et al. (2024).  
+(Supplementary Material) Improving Large Language Models with the Transtheoretical Model and Motivational Interviewing to Promote a Healthy Diet for Ambivalent Motivations; The persona prompts were adapted from Steenstra et al. (2024).  
 ### Prompt - Model 0
 No prompt engineering.
 ### Prompt - Model 1
